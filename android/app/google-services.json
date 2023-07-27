@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "258558869134",
+    "project_id": "aimedscribble",
+    "storage_bucket": "aimedscribble.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258558869134:android:b855d65883e8255bd593df",
+        "android_client_info": {
+          "package_name": "com.example.ai_med_scribble"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258558869134-mf7oseje3f6j49bidkbiaqnf1pbb5lks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ6vcM8Dwm-LgSnRvGSvYFCmCkA8j2GJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258558869134-mf7oseje3f6j49bidkbiaqnf1pbb5lks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
